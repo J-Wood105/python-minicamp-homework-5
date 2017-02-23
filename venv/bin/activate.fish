@@ -36,7 +36,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/jb/dev/python-minicamp-homework-5/venv"
+set -gx VIRTUAL_ENV "/Users/jbwood/Desktop/my-python-project/python-minicamp-homework-5/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

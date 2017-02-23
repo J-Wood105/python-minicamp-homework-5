@@ -1,4 +1,4 @@
-#!/home/jb/dev/python-minicamp-homework-5/venv/bin/python
+#!/Users/jbwood/Desktop/my-python-project/python-minicamp-homework-5/venv/bin/python
 
 import sys
 import getopt

@@ -40,7 +40,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/jb/dev/python-minicamp-homework-5/venv"
+VIRTUAL_ENV="/Users/jbwood/Desktop/my-python-project/python-minicamp-homework-5/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
